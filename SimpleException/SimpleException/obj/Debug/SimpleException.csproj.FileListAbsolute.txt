@@ -1,0 +1,6 @@
+c:\users\olha\documents\visual studio 2015\Projects\SimpleException\SimpleException\bin\Debug\SimpleException.exe.config
+c:\users\olha\documents\visual studio 2015\Projects\SimpleException\SimpleException\bin\Debug\SimpleException.exe
+c:\users\olha\documents\visual studio 2015\Projects\SimpleException\SimpleException\bin\Debug\SimpleException.pdb
+c:\users\olha\documents\visual studio 2015\Projects\SimpleException\SimpleException\obj\Debug\SimpleException.csprojResolveAssemblyReference.cache
+c:\users\olha\documents\visual studio 2015\Projects\SimpleException\SimpleException\obj\Debug\SimpleException.exe
+c:\users\olha\documents\visual studio 2015\Projects\SimpleException\SimpleException\obj\Debug\SimpleException.pdb
