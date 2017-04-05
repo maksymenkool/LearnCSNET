@@ -1,0 +1,6 @@
+c:\users\olha\documents\visual studio 2015\Projects\AutoProps\AutoProps\bin\Debug\AutoProps.exe.config
+c:\users\olha\documents\visual studio 2015\Projects\AutoProps\AutoProps\bin\Debug\AutoProps.exe
+c:\users\olha\documents\visual studio 2015\Projects\AutoProps\AutoProps\bin\Debug\AutoProps.pdb
+c:\users\olha\documents\visual studio 2015\Projects\AutoProps\AutoProps\obj\Debug\AutoProps.csprojResolveAssemblyReference.cache
+c:\users\olha\documents\visual studio 2015\Projects\AutoProps\AutoProps\obj\Debug\AutoProps.exe
+c:\users\olha\documents\visual studio 2015\Projects\AutoProps\AutoProps\obj\Debug\AutoProps.pdb

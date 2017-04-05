@@ -1,0 +1,6 @@
+C:\Users\Olha\documents\visual studio 2015\Projects\Fun With Array\Fun With Array\bin\Debug\Fun With Array.exe.config
+C:\Users\Olha\documents\visual studio 2015\Projects\Fun With Array\Fun With Array\bin\Debug\Fun With Array.exe
+C:\Users\Olha\documents\visual studio 2015\Projects\Fun With Array\Fun With Array\bin\Debug\Fun With Array.pdb
+C:\Users\Olha\documents\visual studio 2015\Projects\Fun With Array\Fun With Array\obj\Debug\Fun With Array.exe
+C:\Users\Olha\documents\visual studio 2015\Projects\Fun With Array\Fun With Array\obj\Debug\Fun With Array.pdb
+C:\Users\Olha\documents\visual studio 2015\Projects\Fun With Array\Fun With Array\obj\Debug\FunWithArray.csprojResolveAssemblyReference.cache

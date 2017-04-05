@@ -1,0 +1,6 @@
+c:\users\olha\documents\visual studio 2015\Projects\FunWithEnum\FunWithEnum\bin\Debug\FunWithEnum.exe.config
+c:\users\olha\documents\visual studio 2015\Projects\FunWithEnum\FunWithEnum\obj\Debug\FunWithEnum.csprojResolveAssemblyReference.cache
+c:\users\olha\documents\visual studio 2015\Projects\FunWithEnum\FunWithEnum\bin\Debug\FunWithEnum.exe
+c:\users\olha\documents\visual studio 2015\Projects\FunWithEnum\FunWithEnum\bin\Debug\FunWithEnum.pdb
+c:\users\olha\documents\visual studio 2015\Projects\FunWithEnum\FunWithEnum\obj\Debug\FunWithEnum.exe
+c:\users\olha\documents\visual studio 2015\Projects\FunWithEnum\FunWithEnum\obj\Debug\FunWithEnum.pdb

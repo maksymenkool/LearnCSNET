@@ -1,0 +1,1 @@
+c:\users\olha\documents\visual studio 2015\Projects\NullableTypes\NullableTypes\bin\Debug\NullableTypes.exe.config

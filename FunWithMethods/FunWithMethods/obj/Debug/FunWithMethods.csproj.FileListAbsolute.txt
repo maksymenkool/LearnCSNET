@@ -1,0 +1,6 @@
+c:\users\olha\documents\visual studio 2015\Projects\FunWithMethods\FunWithMethods\bin\Debug\FunWithMethods.exe.config
+c:\users\olha\documents\visual studio 2015\Projects\FunWithMethods\FunWithMethods\bin\Debug\FunWithMethods.exe
+c:\users\olha\documents\visual studio 2015\Projects\FunWithMethods\FunWithMethods\bin\Debug\FunWithMethods.pdb
+c:\users\olha\documents\visual studio 2015\Projects\FunWithMethods\FunWithMethods\obj\Debug\FunWithMethods.csprojResolveAssemblyReference.cache
+c:\users\olha\documents\visual studio 2015\Projects\FunWithMethods\FunWithMethods\obj\Debug\FunWithMethods.exe
+c:\users\olha\documents\visual studio 2015\Projects\FunWithMethods\FunWithMethods\obj\Debug\FunWithMethods.pdb

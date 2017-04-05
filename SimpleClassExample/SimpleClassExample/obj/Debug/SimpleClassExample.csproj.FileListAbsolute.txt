@@ -1,0 +1,6 @@
+c:\users\olha\documents\visual studio 2015\Projects\SimpleClassExample\SimpleClassExample\bin\Debug\SimpleClassExample.exe.config
+c:\users\olha\documents\visual studio 2015\Projects\SimpleClassExample\SimpleClassExample\bin\Debug\SimpleClassExample.exe
+c:\users\olha\documents\visual studio 2015\Projects\SimpleClassExample\SimpleClassExample\bin\Debug\SimpleClassExample.pdb
+c:\users\olha\documents\visual studio 2015\Projects\SimpleClassExample\SimpleClassExample\obj\Debug\SimpleClassExample.csprojResolveAssemblyReference.cache
+c:\users\olha\documents\visual studio 2015\Projects\SimpleClassExample\SimpleClassExample\obj\Debug\SimpleClassExample.exe
+c:\users\olha\documents\visual studio 2015\Projects\SimpleClassExample\SimpleClassExample\obj\Debug\SimpleClassExample.pdb
