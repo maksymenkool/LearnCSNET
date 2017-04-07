@@ -34,5 +34,13 @@ namespace CustomEnumerator
             //Возвратить IEnumerator объекта массива.
             return carArray.GetEnumerator();
         }*/
+        //или так:
+        /*public IEnumerator GetEnumerator()
+        {
+            foreach (Car c in carArray)
+            {
+                yield return c;
+            }
+        }*/
     }
 }
