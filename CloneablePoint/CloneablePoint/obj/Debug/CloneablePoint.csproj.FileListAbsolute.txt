@@ -1,0 +1,6 @@
+c:\users\olha\documents\visual studio 2015\Projects\CloneablePoint\CloneablePoint\bin\Debug\CloneablePoint.exe.config
+c:\users\olha\documents\visual studio 2015\Projects\CloneablePoint\CloneablePoint\bin\Debug\CloneablePoint.exe
+c:\users\olha\documents\visual studio 2015\Projects\CloneablePoint\CloneablePoint\bin\Debug\CloneablePoint.pdb
+c:\users\olha\documents\visual studio 2015\Projects\CloneablePoint\CloneablePoint\obj\Debug\CloneablePoint.csprojResolveAssemblyReference.cache
+c:\users\olha\documents\visual studio 2015\Projects\CloneablePoint\CloneablePoint\obj\Debug\CloneablePoint.exe
+c:\users\olha\documents\visual studio 2015\Projects\CloneablePoint\CloneablePoint\obj\Debug\CloneablePoint.pdb
