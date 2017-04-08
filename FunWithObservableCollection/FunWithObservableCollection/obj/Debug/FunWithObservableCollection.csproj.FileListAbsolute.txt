@@ -1,0 +1,6 @@
+c:\users\olha\documents\visual studio 2015\Projects\FunWithObservableCollection\FunWithObservableCollection\bin\Debug\FunWithObservableCollection.exe.config
+c:\users\olha\documents\visual studio 2015\Projects\FunWithObservableCollection\FunWithObservableCollection\bin\Debug\FunWithObservableCollection.exe
+c:\users\olha\documents\visual studio 2015\Projects\FunWithObservableCollection\FunWithObservableCollection\bin\Debug\FunWithObservableCollection.pdb
+c:\users\olha\documents\visual studio 2015\Projects\FunWithObservableCollection\FunWithObservableCollection\obj\Debug\FunWithObservableCollection.csprojResolveAssemblyReference.cache
+c:\users\olha\documents\visual studio 2015\Projects\FunWithObservableCollection\FunWithObservableCollection\obj\Debug\FunWithObservableCollection.exe
+c:\users\olha\documents\visual studio 2015\Projects\FunWithObservableCollection\FunWithObservableCollection\obj\Debug\FunWithObservableCollection.pdb
