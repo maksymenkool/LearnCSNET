@@ -1,0 +1,6 @@
+c:\users\olha\documents\visual studio 2015\Projects\FunWithGenericCollections\FunWithGenericCollections\bin\Debug\FunWithGenericCollections.exe.config
+c:\users\olha\documents\visual studio 2015\Projects\FunWithGenericCollections\FunWithGenericCollections\bin\Debug\FunWithGenericCollections.exe
+c:\users\olha\documents\visual studio 2015\Projects\FunWithGenericCollections\FunWithGenericCollections\bin\Debug\FunWithGenericCollections.pdb
+c:\users\olha\documents\visual studio 2015\Projects\FunWithGenericCollections\FunWithGenericCollections\obj\Debug\FunWithGenericCollections.csprojResolveAssemblyReference.cache
+c:\users\olha\documents\visual studio 2015\Projects\FunWithGenericCollections\FunWithGenericCollections\obj\Debug\FunWithGenericCollections.exe
+c:\users\olha\documents\visual studio 2015\Projects\FunWithGenericCollections\FunWithGenericCollections\obj\Debug\FunWithGenericCollections.pdb
