@@ -1,0 +1,6 @@
+c:\users\olha\documents\visual studio 2015\Projects\SimpleDelegate\SimpleDelegate\bin\Debug\SimpleDelegate.exe.config
+c:\users\olha\documents\visual studio 2015\Projects\SimpleDelegate\SimpleDelegate\bin\Debug\SimpleDelegate.exe
+c:\users\olha\documents\visual studio 2015\Projects\SimpleDelegate\SimpleDelegate\bin\Debug\SimpleDelegate.pdb
+c:\users\olha\documents\visual studio 2015\Projects\SimpleDelegate\SimpleDelegate\obj\Debug\SimpleDelegate.csprojResolveAssemblyReference.cache
+c:\users\olha\documents\visual studio 2015\Projects\SimpleDelegate\SimpleDelegate\obj\Debug\SimpleDelegate.exe
+c:\users\olha\documents\visual studio 2015\Projects\SimpleDelegate\SimpleDelegate\obj\Debug\SimpleDelegate.pdb
