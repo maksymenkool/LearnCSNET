@@ -1,0 +1,6 @@
+c:\users\olha\documents\visual studio 2015\Projects\GenericPoint\GenericPoint\bin\Debug\GenericPoint.exe.config
+c:\users\olha\documents\visual studio 2015\Projects\GenericPoint\GenericPoint\bin\Debug\GenericPoint.exe
+c:\users\olha\documents\visual studio 2015\Projects\GenericPoint\GenericPoint\bin\Debug\GenericPoint.pdb
+c:\users\olha\documents\visual studio 2015\Projects\GenericPoint\GenericPoint\obj\Debug\GenericPoint.csprojResolveAssemblyReference.cache
+c:\users\olha\documents\visual studio 2015\Projects\GenericPoint\GenericPoint\obj\Debug\GenericPoint.exe
+c:\users\olha\documents\visual studio 2015\Projects\GenericPoint\GenericPoint\obj\Debug\GenericPoint.pdb
