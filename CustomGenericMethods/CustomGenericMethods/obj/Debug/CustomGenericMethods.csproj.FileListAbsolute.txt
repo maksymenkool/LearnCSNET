@@ -1,0 +1,6 @@
+c:\users\olha\documents\visual studio 2015\Projects\CustomGenericMethods\CustomGenericMethods\bin\Debug\CustomGenericMethods.exe.config
+c:\users\olha\documents\visual studio 2015\Projects\CustomGenericMethods\CustomGenericMethods\bin\Debug\CustomGenericMethods.exe
+c:\users\olha\documents\visual studio 2015\Projects\CustomGenericMethods\CustomGenericMethods\bin\Debug\CustomGenericMethods.pdb
+c:\users\olha\documents\visual studio 2015\Projects\CustomGenericMethods\CustomGenericMethods\obj\Debug\CustomGenericMethods.csprojResolveAssemblyReference.cache
+c:\users\olha\documents\visual studio 2015\Projects\CustomGenericMethods\CustomGenericMethods\obj\Debug\CustomGenericMethods.exe
+c:\users\olha\documents\visual studio 2015\Projects\CustomGenericMethods\CustomGenericMethods\obj\Debug\CustomGenericMethods.pdb
