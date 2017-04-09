@@ -14,6 +14,15 @@ namespace ActionAndFuncDelegates
             Action<string, ConsoleColor, int> actionTarget =
                 new Action<string, ConsoleColor, int>(DisplayMessage);
             actionTarget("Action Message!", ConsoleColor.Yellow, 5);
+
+            //Использование делегата Func<>
+            Func<int, int, int> funcTarget = new Func<int, int, int>(Add);
+            int result = funcTarget.Invoke(40, 40);
+            Console.WriteLine("40 + 40 = {0}", result);
+
+            Func<int, int, string> funcTarget2 = new Func<int, int, string>(SumToString);
+            string sum = funcTarget2.Invoke(90, 300);
+            Console.WriteLine(sum);
             Console.ReadLine();
         }
 
@@ -31,6 +40,17 @@ namespace ActionAndFuncDelegates
 
             //Восстановить цвет.
             Console.ForegroundColor = previous;
+        }
+
+        //Цель для Func<>
+        static int Add(int x, int y)
+        {
+            return x + y;
+        }
+
+        static string SumToString(int x, int y)
+        {
+            return (x + y).ToString();
         }
     }
 }

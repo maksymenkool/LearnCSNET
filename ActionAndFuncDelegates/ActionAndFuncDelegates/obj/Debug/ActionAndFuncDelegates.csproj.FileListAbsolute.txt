@@ -1,6 +1,5 @@
 c:\users\olha\documents\visual studio 2015\Projects\ActionAndFuncDelegates\ActionAndFuncDelegates\bin\Debug\ActionAndFuncDelegates.exe.config
 c:\users\olha\documents\visual studio 2015\Projects\ActionAndFuncDelegates\ActionAndFuncDelegates\bin\Debug\ActionAndFuncDelegates.exe
 c:\users\olha\documents\visual studio 2015\Projects\ActionAndFuncDelegates\ActionAndFuncDelegates\bin\Debug\ActionAndFuncDelegates.pdb
-c:\users\olha\documents\visual studio 2015\Projects\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\ActionAndFuncDelegates.csprojResolveAssemblyReference.cache
 c:\users\olha\documents\visual studio 2015\Projects\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\ActionAndFuncDelegates.exe
 c:\users\olha\documents\visual studio 2015\Projects\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\ActionAndFuncDelegates.pdb
