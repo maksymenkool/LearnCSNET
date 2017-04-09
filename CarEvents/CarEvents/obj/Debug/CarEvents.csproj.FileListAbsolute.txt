@@ -1,0 +1,6 @@
+c:\users\olha\documents\visual studio 2015\Projects\CarEvents\CarEvents\bin\Debug\CarEvents.exe.config
+c:\users\olha\documents\visual studio 2015\Projects\CarEvents\CarEvents\bin\Debug\CarEvents.exe
+c:\users\olha\documents\visual studio 2015\Projects\CarEvents\CarEvents\bin\Debug\CarEvents.pdb
+c:\users\olha\documents\visual studio 2015\Projects\CarEvents\CarEvents\obj\Debug\CarEvents.csprojResolveAssemblyReference.cache
+c:\users\olha\documents\visual studio 2015\Projects\CarEvents\CarEvents\obj\Debug\CarEvents.exe
+c:\users\olha\documents\visual studio 2015\Projects\CarEvents\CarEvents\obj\Debug\CarEvents.pdb
