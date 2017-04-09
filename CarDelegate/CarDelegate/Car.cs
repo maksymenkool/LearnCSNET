@@ -33,8 +33,24 @@ namespace CarDelegate
         //3. Добавить регистрационную функцию для вызывающего кода.
         public void RegisterWithCarEngine(CarEngineHandler methodToCall)
         {
-            listOfHandlers = methodToCall;
+            //listOfHandlers = methodToCall;
+
+            //Добавление поддержки группового вызова.
+            //использование операции +=
+            //listOfHandlers += methodToCall;
+
+            //Вместо += исп. Delegate.Combine()
+            if (listOfHandlers == null)
+                listOfHandlers = methodToCall;
+            else
+                Delegate.Combine(listOfHandlers, methodToCall);
         }
+
+        public void UnRegisterWithCarEngine(CarEngineHandler methodToCall)
+        {
+            listOfHandlers -= methodToCall;
+        }
+
         //4. Реализовать метод Accelerate() для обращения
         //   к списку вызовов делегата при нужных условиях.
         public void Accelerate(int delta)
