@@ -1,0 +1,5 @@
+c:\users\olha\documents\visual studio 2015\Projects\CarDelegate\CarDelegate\bin\Debug\CarDelegate.exe.config
+c:\users\olha\documents\visual studio 2015\Projects\CarDelegate\CarDelegate\bin\Debug\CarDelegate.exe
+c:\users\olha\documents\visual studio 2015\Projects\CarDelegate\CarDelegate\bin\Debug\CarDelegate.pdb
+c:\users\olha\documents\visual studio 2015\Projects\CarDelegate\CarDelegate\obj\Debug\CarDelegate.exe
+c:\users\olha\documents\visual studio 2015\Projects\CarDelegate\CarDelegate\obj\Debug\CarDelegate.pdb
