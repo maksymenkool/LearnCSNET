@@ -29,7 +29,7 @@ namespace SimpleLambdaExpressions
             Console.WriteLine("Here are your even numbers:");
             foreach(int evenNumber in evenNumbers)
             {
-                Console.WriteLine("{0}\t", evenNumber);
+                Console.Write("{0}\t", evenNumber);
             }
             Console.WriteLine();
         }
@@ -55,7 +55,7 @@ namespace SimpleLambdaExpressions
             Console.WriteLine("Here are your even numbers:");
             foreach (int evenNumber in evenNumbers)
             {
-                Console.WriteLine("{0}\t", evenNumber);
+                Console.Write("{0}\t", evenNumber);
             }
             Console.WriteLine();
         }
@@ -81,7 +81,7 @@ namespace SimpleLambdaExpressions
             Console.WriteLine("Here are your even numbers:");
             foreach (int evenNumber in evenNumbers)
             {
-                Console.WriteLine("{0}\t", evenNumber);
+                Console.Write("{0}\t", evenNumber);
             }
             Console.WriteLine();
         }
