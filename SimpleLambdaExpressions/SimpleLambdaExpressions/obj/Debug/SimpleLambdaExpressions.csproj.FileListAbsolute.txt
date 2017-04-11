@@ -1,0 +1,6 @@
+c:\users\olha\documents\visual studio 2015\Projects\SimpleLambdaExpressions\SimpleLambdaExpressions\bin\Debug\SimpleLambdaExpressions.exe.config
+c:\users\olha\documents\visual studio 2015\Projects\SimpleLambdaExpressions\SimpleLambdaExpressions\bin\Debug\SimpleLambdaExpressions.exe
+c:\users\olha\documents\visual studio 2015\Projects\SimpleLambdaExpressions\SimpleLambdaExpressions\bin\Debug\SimpleLambdaExpressions.pdb
+c:\users\olha\documents\visual studio 2015\Projects\SimpleLambdaExpressions\SimpleLambdaExpressions\obj\Debug\SimpleLambdaExpressions.csprojResolveAssemblyReference.cache
+c:\users\olha\documents\visual studio 2015\Projects\SimpleLambdaExpressions\SimpleLambdaExpressions\obj\Debug\SimpleLambdaExpressions.exe
+c:\users\olha\documents\visual studio 2015\Projects\SimpleLambdaExpressions\SimpleLambdaExpressions\obj\Debug\SimpleLambdaExpressions.pdb
